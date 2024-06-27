@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'colorize'
+require 'benchmark'
 require 'async'
 
 # Method to calculate Fibonacci number
